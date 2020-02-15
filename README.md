@@ -1,1 +1,1 @@
-This is handbook draft for introducing quantum computer to folk.
+This is a handbook draft for introducing quantum computer to folk.
