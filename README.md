@@ -1,5 +1,10 @@
 # Promotion Program on Quantum Computing Science and Technology
 The IBM Quantum Computer Hub at National Taiwan University holds a series of promotion courses nationwide. Yun-Chih Liao is one of the lecturers in the hub. This repository contains the slides, demonstrations, and related reference materials of the courses.
+In the courses, we give demos by Qiskit, an online platform helping you execute quantum programs with simulators and real quantum proccessors. Before doing the so, you need to make sure that 
+1. you have applied an [IBM Quantum Experience](https://quantum-computing.ibm.com/) account
+2. you have a Python (3.5 or later) platform in your computer
+3. you have insalled Qiskit package
+For the installation, please visit [here](https://github.com/ycldingo/IBMQ/blob/master/README.md).
 
 ## Normal Lectures 
 These short lectures are given for audience in various background, such as the feshman, college students majoring in Finance, students in Physics department, or those from industries and engineering people.
