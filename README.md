@@ -15,5 +15,8 @@ An open house was held on September 19, 2020 mainly for the high school students
 ## Others
 Here, we also post some basic introduction to quantum computing. Some of the contents is in Chinese since the reader is set to be the folk in Taiwan.
 
+## More Materials
+You are suggested to visit the [repository](https://github.com/ycldingo/QuantumComputing_2020Summer) for the 2020 Quantum Computing Summer School held by National Taiwan University.
+
 ## Reference
 Some of the content are from online resource. We do not own the copyright.
