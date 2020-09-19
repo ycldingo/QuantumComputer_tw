@@ -10,7 +10,10 @@ For the installation, please visit [here](https://github.com/ycldingo/IBMQ/blob/
 These short lectures are given for audience in various background, such as the feshman, college students majoring in Finance, students in Physics department, or those from industries and engineering people.
 
 ## Open House
-An open house was held on September 19, 2020 mainly for the high school students. The participants of this event can view the slides and the take-home exercise mentioned in the lecture. 
+An open house was held on September 19, 2020 mainly for the high school students. 
+- Lecture: Overview on Quantum Computing
+- Lecture: [Introduction to Quantum Computing](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/OpenHouse091920.pdf)
+- [Take-home exercise](https://github.com/ycldingo/QuantumComputer_tw/tree/master/exercise)
 
 ## Others
 Here, we also post some basic introduction to quantum computing. Some of the contents is in Chinese since the reader is set to be the folk in Taiwan.
