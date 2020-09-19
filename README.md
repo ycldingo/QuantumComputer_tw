@@ -11,8 +11,8 @@ These short lectures are given for audience in various background, such as the f
 
 ## Open House
 An open house was held on September 19, 2020 mainly for the high school students. 
-- Lecture 1: Overview on Quantum Computing
-- Lecture 2: [Introduction to Quantum Computing](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/OpenHouse091920.pdf)
+- Lecture 1: [Overview on Quantum Computing](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/OpenHouse091920-overview.pdf)
+- Lecture 2: [Introduction to Quantum Computing](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/OpenHouse091920-introduction.pdf)
 - [Take-home exercise](https://github.com/ycldingo/QuantumComputer_tw/tree/master/exercise)
 
 ## Others
