@@ -10,7 +10,7 @@ For the installation, please visit [here](https://github.com/ycldingo/IBMQ/blob/
 These short lectures are given for audience in various background, such as the feshman, college students majoring in Finance, students in Physics department, or those from industries and engineering people.
 
 ## Open House
-An open house was held on September 19, 2020 mainly for the high school students. 
+An open house was held on September 19 2020 in National Taiwan University, which is mainly for the high school students. The event is supervised by MOST (Ministry of Science and Technology) Taiwan.
 - Lecture 1: [Overview on Quantum Computing](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/OpenHouse091920-overview.pdf)
 - Lecture 2: [Introduction to Quantum Computing](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/OpenHouse091920-introduction.pdf)
 - [Take-home exercise](https://github.com/ycldingo/QuantumComputer_tw/tree/master/exercise)
