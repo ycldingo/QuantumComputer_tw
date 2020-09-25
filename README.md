@@ -33,8 +33,8 @@ The audience are mostly college and graduate students from physics, computer sci
 - [Quiz](https://forms.gle/kUZdNFa4N5WY7PjH8): The quiz covers the content of the lectures.
 
 ## Quantum Computing Workshop
-### Joint Workshop
-A joint symposium, focusing on quantum computing and the possible industrial applications, was held on April 27, 2020. We are pleased to discuss with Gogoro Network team together. We demostrate quantum random walks and maxcut problem with QAOA and VQE.
+### Joint Workshop with Gogoro Network - April 27, 2020
+A joint symposium, focusing on quantum computing and the possible industrial applications, was held with Gogoro Network team together. We demostrate quantum random walks and maxcut problem with QAOA and VQE.
 - Presentation 1: [Step into Quantum](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/Step%20into%20Quantum.pdf) (some content are also presented in a online seminar in NTHU)
 - Presentation 2: [First Quantum Programming](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/First%20Quantum%20Programming.pdf)
 - Presentation 3: [Variational Quantum Eigensolver](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/Variational%20Quantum%20Eigensolver.pdf)
@@ -61,8 +61,6 @@ An open house was held on September 19 2020 in National Taiwan University, which
 ## Others
 Here, we also post some basic introduction to quantum computing. Some of the contents is in Chinese since the reader is set to be the folk in Taiwan.
 
-## More Materials
-You are suggested to visit the [repository](https://github.com/ycldingo/QuantumComputing_2020Summer) for the 2020 Quantum Computing Summer School held by National Taiwan University.
 
 ## Reference
 Some of the content are from online resource. We do not own the copyright.
