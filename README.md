@@ -5,6 +5,7 @@ In the courses, we give demos by Qiskit, an online platform helping you execute 
 2. you have a Python (3.5 or later) platform in your computer
 3. you have insalled Qiskit package
 For the installation, please visit [here](https://github.com/ycldingo/IBMQ/blob/master/README.md). 
+
 Qiskit upgrade their packages and relevant environment frequently. Please verify your version before programming with 
 ```python
 ## Check qiskit version
