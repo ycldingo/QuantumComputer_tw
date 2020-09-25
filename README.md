@@ -9,7 +9,7 @@ For the installation, please visit [here](https://github.com/ycldingo/IBMQ/blob/
 ## Normal Lectures 
 These short lectures are given for audience in various background, such as the feshman, college students majoring in Finance, students in Physics department, or those from industries and engineering people.
 
-### National Chunghua University ofEducation (NCUE) - April 13, 2020
+### National Chunghua University of Education (NCUE) - April 13, 2020
 The audience of the lecture are undergraduate students in Department of Physics.
 - Lecture 1: Let's talk in quantum
 - Lecture 2: Quantum Algorithmns & Programming
@@ -21,6 +21,9 @@ An virtual seminar is given to Department of Electrical Engineering.
 ### Tamkang University (TKU) - May 14, 2020
 We are invited to Department of Finance to give a brief introduction to quantum computing and possible application on finance.
 - Lecture 1: How to Quantum?
+  - Demo: Qiskit Finance - Pricing Options
+    1. [Load distribution](https://github.com/ycldingo/QuantumComputer_tw/blob/master/demo/LoadDistribution.ipynb)
+    2. [Option Pricing](https://github.com/ycldingo/QuantumComputer_tw/blob/master/demo/OptionPricing_butterfly.ipynb)
 - Lecture 2: Quantum V.S. Programming
 
 ### National Chung Cheng University (CCU) - September 25, 2020
@@ -38,8 +41,12 @@ A joint symposium, focusing on quantum computing and the possible industrial app
 
 ### National Taiwan University (NTU) - June 30, 2020
 This is a worskop open for folks. The participants come from various background, finance, material engineering, physics, computer science, electric engineering, chemistry engineering, etc. 
-- Lecture 1: Quantum Computing?
-- Lecture 2: Quantum Programming
+- Morning - Introduction
+  - Lecture 1: [Quantum Computing?](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/063020-QuantumComputing.pdf)
+  - Lecture 2: Quantum Programming
+- Afternoon - Demonstrations
+  - Lecture 1: [Quantum Random Walks](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/063020-QuantumRandomWalks.pdf)
+  - Lecture 2: Varioanl Quantum Eigensolver
 
 
 ## 2020 Quantum Computing Summer School
