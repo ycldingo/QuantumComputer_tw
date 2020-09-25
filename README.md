@@ -11,7 +11,7 @@ These short lectures are given for audience in various background, such as the f
 
 ### National Chunghua University of Education (NCUE) - April 13, 2020
 The audience of the lecture are undergraduate students in Department of Physics.
-- Lecture 1: Let's talk in quantum
+- Lecture 1: Let's Talk in Quantum
 - Lecture 2: Quantum Algorithmns & Programming
 
 ### National Tsing Hua University (NTHU) - May 02, 2020
