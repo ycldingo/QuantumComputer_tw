@@ -59,7 +59,7 @@ An open house was held on September 19 2020 in National Taiwan University, which
 - [Take-home exercise](https://github.com/ycldingo/QuantumComputer_tw/tree/master/exercise)
 
 ## Others
-Here, we also post some basic introduction to quantum computing. Some of the contents is in Chinese since the reader is set to be the folk in Taiwan.
+Here, we also post some [basic introduction to quantum computing](https://github.com/ycldingo/QuantumComputer_tw/blob/master/QA_QuantumComputer.ipynb). Some of the contents is in Chinese since the reader is set to be the folk in Taiwan.
 
 
 ## Reference
