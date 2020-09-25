@@ -35,7 +35,7 @@ The audience are mostly college and graduate students from physics, computer sci
 ## Quantum Computing Workshop
 ### Joint Workshop with Gogoro Network - April 27, 2020
 A joint symposium, focusing on quantum computing and the possible industrial applications, was held with Gogoro Network team together. We demostrate quantum random walks and maxcut problem with QAOA and VQE.
-- Presentation 1: [Step into Quantum](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/Step%20into%20Quantum.pdf) (some content are also presented in a online seminar in NTHU)
+- Presentation 1: [Step into Quantum](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/Step%20into%20Quantum.pdf) (some content are also presented in an online seminar in NTHU)
 - Presentation 2: [First Quantum Programming](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/First%20Quantum%20Programming.pdf)
 - Presentation 3: [Variational Quantum Eigensolver](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/Variational%20Quantum%20Eigensolver.pdf)
 
