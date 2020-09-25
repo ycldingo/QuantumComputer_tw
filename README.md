@@ -4,7 +4,8 @@ In the courses, we give demos by Qiskit, an online platform helping you execute 
 1. you have applied an [IBM Quantum Experience](https://quantum-computing.ibm.com/) account
 2. you have a Python (3.5 or later) platform in your computer
 3. you have insalled Qiskit package
-For the installation, please visit [here](https://github.com/ycldingo/IBMQ/blob/master/README.md). Qiskit upgrade their packages and relevant environment frequently. Please verify your version before programming with 
+For the installation, please visit [here](https://github.com/ycldingo/IBMQ/blob/master/README.md). 
+Qiskit upgrade their packages and relevant environment frequently. Please verify your version before programming with 
 ```python
 ## Check qiskit version
 from qiskit import version
