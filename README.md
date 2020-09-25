@@ -21,7 +21,7 @@ An virtual seminar is given to Department of Electrical Engineering.
 ### Tamkang University (TKU) - May 14, 2020
 We are invited to Department of Finance to give a brief introduction to quantum computing and possible application on finance.
 - Lecture 1: How to Quantum?
-  - Demo: Qiskit Finance - Pricing Options
+  - Demo: Pricing Options (reference: [Qiskit Finance](https://github.com/Qiskit/qiskit-tutorials/blob/4e76af1f26af57f3a1112318e5c611c52cf960de/qiskit/advanced/aqua/finance/simulation/european_call_option_pricing.ipynb))
     1. [Load distribution](https://github.com/ycldingo/QuantumComputer_tw/blob/master/demo/LoadDistribution.ipynb)
     2. [Option Pricing](https://github.com/ycldingo/QuantumComputer_tw/blob/master/demo/OptionPricing_butterfly.ipynb)
 - Lecture 2: Quantum V.S. Programming
