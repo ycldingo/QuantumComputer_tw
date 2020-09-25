@@ -9,6 +9,12 @@ For the installation, please visit [here](https://github.com/ycldingo/IBMQ/blob/
 ## Normal Lectures 
 These short lectures are given for audience in various background, such as the feshman, college students majoring in Finance, students in Physics department, or those from industries and engineering people.
 
+### National Chung Cheng University (CCU) 
+The audience are mostly college and graduate students from physics, computer science, electrical engineering background.
+- Lecture 1: [Quantum, Quantum, Quantum](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/introduction-QuantumComputer_CCU092520.pdf)
+- Lecture 2: Introduction to Quantum Programming
+- [Quiz](https://forms.gle/kUZdNFa4N5WY7PjH8): The quiz covers the content of the lectures.
+
 ## Open House
 An open house was held on September 19 2020 in National Taiwan University, which is mainly for the high school students. The event is supervised by MOST (Ministry of Science and Technology) Taiwan.
 - Lecture 1: [Overview on Quantum Computing](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/OpenHouse091920-overview.pdf)
