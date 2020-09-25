@@ -64,11 +64,10 @@ Here, we also post some [basic introduction to quantum computing](https://github
 
 ## Reference
 Some of the content are from online resource. We do not own the copyright.
-- Qiskit
+- [Qiskit](https://qiskit.org/)
   - [GitHub](https://github.com/Qiskit)
     - [Tutorial](https://github.com/Qiskit/qiskit-tutorials)
   - [Textbook](https://qiskit.org/textbook/preface.html)
   - [Document](https://qiskit.org/documentation/)
-  - [Official website](https://qiskit.org/)
   - [2020 Global Summer School](https://qiskit.org/events/summer-school/)
 - [Microsoft Quantum Document](https://docs.microsoft.com/en-us/quantum/)
