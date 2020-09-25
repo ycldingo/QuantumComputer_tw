@@ -26,7 +26,7 @@ We are invited to Department of Finance to give a brief introduction to quantum 
 ### National Chung Cheng University (CCU) - September 25, 2020
 The audience are mostly college and graduate students from physics, computer science, electrical engineering background.
 - Lecture 1: [Quantum, Quantum, Quantum](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/CCU092520-QuantumQuantumQuantum.pdf)
-- Lecture 2: Introduction to Quantum Programming
+- Lecture 2: [Introduction to Quantum Programming](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/CCU092520-IntorductionToQuantumProgramming.pdf)
 - [Quiz](https://forms.gle/kUZdNFa4N5WY7PjH8): The quiz covers the content of the lectures.
 
 ## Quantum Computing Workshop
