@@ -27,7 +27,7 @@ The audience of the lecture are undergraduate students in Department of Physics.
 - Lecture 2: Quantum Algorithmns & Programming
 
 ### National Tsing Hua University (NTHU) - May 02, 2020
-An virtual seminar is given to Department of Electrical Engineering.
+A virtual seminar is given to Department of Electrical Engineering.
 - Lecture: Step into Quantum
 
 ### Tamkang University (TKU) - May 14, 2020
