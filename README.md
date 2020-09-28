@@ -19,7 +19,7 @@ pip install --upgrade qiskit
 in terminal under the environment you install qiskit.
 
 ## Normal Lectures 
-These short lectures are given for audience in various background, such as the feshman, college students majoring in Finance, students in Physics department, or those from industries and engineering people.
+These short lectures are given for audience in various background, such as the feshman, college students majoring in Finance, students in Physics department, or those from industries and engineering people. All the presentations contain both lecture and demonstrations. For audience in different background, we customize the content in order to meet the needs, hoping to have more inspiratioins during the talks.
 
 ### National Chunghua University of Education (NCUE) - April 13, 2020
 The audience of the lecture are undergraduate students in Department of Physics.
