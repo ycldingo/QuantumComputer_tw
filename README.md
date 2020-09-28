@@ -1,5 +1,5 @@
 # Promotion Program on Quantum Computing Science and Technology
-The IBM Quantum Computer Hub at National Taiwan University holds a series of promotion courses nationwide. Yun-Chih Liao is one of the lecturers in the hub. This repository contains the slides, demonstrations, and related reference materials of the courses.
+The [IBM Quantum Computer Hub at National Taiwan University](http://quantum.ntu.edu.tw/) holds a series of promotion courses nationwide. Yun-Chih Liao is one of the lecturers in the hub. This repository contains the slides, demonstrations, and related reference materials of the courses.
 In the courses, we give demos by Qiskit, an online platform helping you execute quantum programs with simulators and real quantum proccessors. Before doing the so, you need to make sure that 
 1. you have applied an [IBM Quantum Experience](https://quantum-computing.ibm.com/) account
 2. you have a Python (3.5 or later) platform in your computer
@@ -65,7 +65,7 @@ This is a worskop open for folks. The participants come from various background,
 A three-day summer school on Quantum computing and programming was held on August 4 to August 6 in 2020 in National Taiwan University. The content including schedule, lecture slides, and demo files are [here](https://github.com/ycldingo/QuantumComputing_2020Summer).
 
 ## Open House
-An open house was held on September 19, 2020 in National Taiwan University (NTU), which is mainly for the high school students. The event is supervised by MOST (Ministry of Science and Technology) Taiwan.
+An open house was held on September 19, 2020 in National Taiwan University (NTU), which is mainly for the high school students. The event is supervised by MOST (Ministry of Science and Technology) Taiwan. We have two sessions: morning & afternoon, for the same content.
 - Lecture 1: [Overview on Quantum Computing](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/OpenHouse091920-overview.pdf)
 - Lecture 2: [Introduction to Quantum Computing](https://github.com/ycldingo/QuantumComputer_tw/blob/master/slides/OpenHouse091920-introduction.pdf)
 - [Take-home exercise](https://github.com/ycldingo/QuantumComputer_tw/tree/master/exercise)
@@ -83,3 +83,4 @@ Some of the content are from online resource. We do not own the copyright.
   - [Document](https://qiskit.org/documentation/)
   - [2020 Global Summer School](https://qiskit.org/events/summer-school/)
 - [Microsoft Quantum Document](https://docs.microsoft.com/en-us/quantum/)
+- [Institute for Quantum Computing, University of Waterloo](https://uwaterloo.ca/institute-for-quantum-computing/quantum-computing-101#Superposition-and-entanglement)
