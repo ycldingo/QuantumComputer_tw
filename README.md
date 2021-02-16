@@ -72,7 +72,7 @@ An open house was held on September 19, 2020 in National Taiwan University (NTU)
 
 ## Others
 Here, we also post some [basic introduction to quantum computing](https://github.com/ycldingo/QuantumComputer_tw/blob/master/QA_QuantumComputer.ipynb). Some of the contents is in Chinese since the reader is set to be the folk in Taiwan.
-The [Quantum Computer Hun at National Taiwan University](http://quantum.ntu.edu.tw/) officially publishes newsletter [***NTU Q***](https://github.com/ycldingo/NTUQ) bimothly, which contains important national and international news, latest upgrades of [IBM's quantum computers](https://quantum-computing.ibm.com/), upcomming events and relevant research of quantum computing.
+The [Quantum Computer Hun at National Taiwan University](http://quantum.ntu.edu.tw/) officially publishes [newsletter ***NTU Q***](https://github.com/ycldingo/NTUQ) bimothly, which contains important national and international news, latest upgrades of [IBM's quantum computers](https://quantum-computing.ibm.com/), upcomming events and relevant research of quantum computing.
 
 
 ## Reference
